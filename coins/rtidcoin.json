@@ -1,0 +1,6 @@
+{
+    "name": "Rtidcoin",
+    "symbol": "RTID",
+    "algorithm": "yescryptR16",
+    "blockTime": 10
+}
