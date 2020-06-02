@@ -1,0 +1,6 @@
+{
+    "name": "Goldcash",
+    "symbol": "GOLD",
+    "algorithm": "yescryptR16",
+    "blockTime": 300
+}
